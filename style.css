@@ -104,7 +104,7 @@
     padding-left: 16px;
 }
 .container5 .container5c{
-    margin-left: -81px;
+    margin-left: -95px;
 }
 .container5 .anh{
     padding-top:12px;
@@ -228,5 +228,15 @@
     padding-left: 5px;
     text-decoration: none;
     color: rgba(7, 178, 201, 0.994);
+}
+.container7{
+    margin-left: 132px;
+}
+.container7 .container7a{
+    display:flex;
+    align-items: center;
+}
+.container7 .container7a h2{
+    font-size: 30px;
 }
 
